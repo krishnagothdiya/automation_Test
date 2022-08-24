@@ -1,0 +1,18 @@
+2022-08-24 17:08:563 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-08-24 17:08:768 INFO  HomePage :25 - Clicking on Sign InLink : [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //a[normalize-space()='Sign in']]
+2022-08-24 17:08:956 INFO  CreateAccountPage :81 - enter email for create new account [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //input[@id='email_create']]
+2022-08-24 17:08:72 INFO  CreateAccountPage :86 - Clicking CreatAccount : [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //span[normalize-space()='Create an account']]
+2022-08-24 17:08:405 INFO  CreateAccountPage :91 - enter First Name [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> id: customer_firstname]
+2022-08-24 17:08:546 INFO  CreateAccountPage :96 - enter LastName : [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> id: customer_lastname]
+2022-08-24 17:08:640 INFO  CreateAccountPage :100 - enter password [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> id: passwd]
+2022-08-24 17:08:757 INFO  CreateAccountPage :105 - Enter address [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> id: address1]
+2022-08-24 17:08:879 INFO  CreateAccountPage :110 - enter city [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> id: city]
+2022-08-24 17:08:980 INFO  CreateAccountPage :115 - select state [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> id: id_state]
+2022-08-24 17:08:126 INFO  CreateAccountPage :120 - enter Zip code [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //input[@id='postcode']]
+2022-08-24 17:08:208 INFO  CreateAccountPage :125 - select country name : [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //select[@id='id_country']]
+2022-08-24 17:08:297 INFO  CreateAccountPage :130 - enter Phone Number [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //input[@id='phone_mobile']]
+2022-08-24 17:08:389 INFO  CreateAccountPage :135 - enter Reference [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //input[@id='alias']]
+2022-08-24 17:08:333 INFO  CreateAccountPage :144 - verify Text [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //h1[contains(text(),'My account')]]
+2022-08-24 17:08:368 INFO  SignInPage :96 - click on sign out link [[ChromeDriver: chrome on WINDOWS (c17792f767acd226873664aae23d567f)] -> xpath: //a[@title='Log me out']]
+2022-08-24 17:08:391 INFO  SignInPage :100 - verify signin button Proxy element for: DefaultElementLocator 'By.xpath: //span[normalize-space()='Sign in']'
+2022-08-24 17:08:516 INFO  ManageDriver :30 - Launching Chrome Browser
